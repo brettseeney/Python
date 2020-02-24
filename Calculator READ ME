@@ -1,0 +1,9 @@
+The calculator is incredibally simple text based caculator 
+which can only calculate two numbers, it can Add, Multiply, Subtract and Divide 
+and must be told what do in the first command line.
+
+This project was a test project created whilst learning how to use Python
+created as a test project to help evaluate my understanding of the Python
+language.
+
+When setting the arithmetic operation please note it is case sensitive.
