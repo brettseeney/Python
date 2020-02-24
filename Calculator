@@ -1,0 +1,38 @@
+print("Would you like to Add, Multiply, Subtract or Divide? ")
+operation = (input())
+
+if operation == "Add":
+    # Addition
+    number1 = (input("1st Number: "))
+    number2 = (input("2nd Number: "))
+
+    output = (int(number1) + int(number2))
+
+    print(output)
+
+elif operation == "Multiply":
+    # Multiplication
+    number1 = (input("1st Number: "))
+    number2 = (input("2nd Number: "))
+
+    output = (int(number1) * int(number2))
+
+    print(output)
+
+elif operation == "Subtract":
+    # Subtraction
+    number1 = (input("1st Number: "))
+    number2 = (input("2nd Number: "))
+
+    output = (int(number1) - int(number2))
+
+    print(output)
+
+elif operation == "Divide":
+    #Division
+    number1 = (input("1st Number: "))
+    number2 = (input("2nd Number: "))
+
+    output = (int(number1) / int(number2))
+
+    print(output)
